@@ -1,2 +1,2 @@
 # BrAnimes
-Site coded with HTML and CSS (University project)
+Projeto de página web, teste da BrAnimes. Prof Alcides
